@@ -4,7 +4,7 @@
 //Programs start running in package main.
 
 package main
-
+// below is what we call a factored import
 import (
 	"fmt"
 	"math/rand"
