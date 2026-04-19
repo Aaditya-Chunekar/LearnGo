@@ -13,4 +13,6 @@ import (
 // - nope, math/rand is reqd.
 func main() {
 	fmt.Println("mi favorito numero", rand.Intn(10))
+	fmt.Printf("Its %do' clock", rand.Intn(10))
+	// %g means? - all possible options?
 }
